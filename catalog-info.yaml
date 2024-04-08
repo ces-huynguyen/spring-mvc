@@ -1,0 +1,13 @@
+apiVersion: codeenginestudio/v1
+kind: JavaWeb
+metadata:
+  name: Spring MVC
+  description: |
+    Java web example
+  links:
+    - title: Code check
+      url: https://sonarqube.devlake.codeenginestudio.com/
+spec:
+  type: library
+  owner: Huy Nguyen
+  lifecycle: experimental
