@@ -1,5 +1,5 @@
 apiVersion: codeenginestudio/v1
-kind: JavaWeb
+kind: Component
 metadata:
   name: Spring MVC
   description: |
