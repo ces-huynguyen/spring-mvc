@@ -1,7 +1,7 @@
 apiVersion: codeenginestudio/v1
 kind: Component
 metadata:
-  name: Spring MVC
+  name: SpringMVC
   description: |
     Java web example
   links:
