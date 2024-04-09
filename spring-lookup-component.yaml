@@ -7,8 +7,6 @@ metadata:
   links:
     - title: Code check
       url: https://sonarqube.devlake.codeenginestudio.com/
-  tags:
-    - java
 spec:
   type: service
   owner: Huy Nguyen
